@@ -1,6 +1,6 @@
 # pushy-demo-angular
 
-A demo of the [Pushy Web SDK](https://github.com/pushy-me/pushy-sdk-web) integrated into a sample [Angular.js](https://angular.io/) web app.
+A demo of the [Pushy Web SDK](https://github.com/pushy/pushy-sdk-web) integrated into a sample [Angular.js](https://angular.io/) web app.
 
 > [Pushy](https://pushy.me/) is the most reliable push notification gateway, perfect for real-time, mission-critical applications.
 
@@ -10,7 +10,7 @@ Visit our documentation to [integrate Pushy into your existing Angular.js app](h
 
 ## Get Started
 
-* Clone the repository locally: `git clone https://github.com/pushy-me/pushy-demo-angular.git`
+* Clone the repository locally: `git clone https://github.com/pushy/pushy-demo-angular.git`
 * Run `cd pushy-demo-angular`
 * Run `ng build --prod && npx http-server dist/*/ -o` to run the demo and open it in a web browser
 * Press `Allow` in the browser when prompted to allow push notifications
